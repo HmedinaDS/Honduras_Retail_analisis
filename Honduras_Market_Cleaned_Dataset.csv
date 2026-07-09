@@ -1,0 +1,367 @@
+Folio,Fecha de orden,Num. cliente,Nombre cliente,Ciudad,Departamento,Vendedor,Region,Fecha de embarque,Empresa fletera,Forma de pago,Nombre del producto,Categoría,Precio unitario,Cantidad,Ingresos,Tarifa de envío
+1001,2024-01-27,27,Supermercado La Económica,San Pedro Sula,Cortés,Mayra Aguilar ,Norte,2024-01-29,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,49.0,9604.0,931.588
+1002,2024-01-27,27,Supermercado La Económica,San Pedro Sula,Cortés,Mayra Aguilar ,Norte,2024-01-29,Empresa de embarque B,Cheque,Ciruelas secas,Frutas secas,49.0,47.0,2303.0,232.603
+1003,2024-01-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-01-06,Empresa de embarque A,Tarjeta de crédito,Peras secas,Frutas secas,420.0,69.0,28980.0,2782.08
+1004,2024-01-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-01-06,Empresa de embarque A,Tarjeta de crédito,Manzanas secas,Frutas secas,742.0,89.0,66038.0,6273.610000000001
+1005,2024-01-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-01-06,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,49.0,11.0,539.0,52.283
+1006,2024-01-12,12,Supermercado La Entrada,La Entrada,Copán,Mayra Aguilar ,Occidente,2024-01-14,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,252.0,81.0,20412.0,1979.964
+1007,2024-01-12,12,Supermercado La Entrada,La Entrada,Copán,Mayra Aguilar ,Occidente,2024-01-14,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,644.0,44.0,28336.0,2776.928
+1008,2024-01-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-01-10,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,128.79999999999998,38.0,4894.4,504.1232
+1009,2024-01-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-01-06,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,88.0,11334.399999999998,1110.7712
+1010,2024-01-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-01-31,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,94.0,16779.0,1711.458
+1011,2024-01-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-01-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,91.0,12294.1,1290.8805
+1012,2024-01-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-01-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560.0,32.0,17920.0,1863.68
+1013,2024-01-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-01-30,Empresa de embarque C,Cheque,Café,Bebidas,644.0,55.0,35420.0,3542.0
+1014,2024-01-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-01-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,47.0,8389.5,864.1185
+1015,2024-01-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-01-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,90.0,3767.4,388.0422000000001
+1016,2024-01-07,7,Supermercado 7 calle,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-01-09,Not Specified,Not Specified,Café,Bebidas,644.0,24.0,15456.0,1545.6
+1017,2024-01-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-01-12,Empresa de embarque A,Not Specified,Jalea de fresa,Mermeladas y jaleas,350.0,34.0,11900.0,1130.5
+1018,2024-01-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-01-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,17.0,5236.0,502.656
+1019,2024-01-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-01-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,44.0,5667.199999999999,589.3888
+1020,2024-01-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-01-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,81.0,3969.0,384.993
+1021,2024-01-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-01-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,49.0,2051.14,211.26742000000007
+1022,2024-01-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-01-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,42.0,10584.0,1058.4
+1023,2024-01-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-01-03,Not Specified,Not Specified,Café,Bebidas,644.0,58.0,37352.0,3772.552
+1024,2024-01-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-01-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,67.0,2804.62,280.462
+1025,2024-01-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-01-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,100.0,13510.0,1310.47
+1026,2024-01-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-01-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,63.0,16228.799999999996,1606.6511999999998
+1027,2024-01-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-01-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,57.0,15561.0,1540.539
+1028,2024-01-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-01-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,81.0,39463.2,4143.636
+1029,2024-01-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-01-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,71.0,13916.0,1335.936
+1030,2024-02-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-02-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,32.0,17920.0,1809.92
+1031,2024-02-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-02-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,63.0,8820.0,917.28
+1032,2024-02-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-02-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,30.0,16800.0,1680.0
+1036,2024-02-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-02-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,47.0,6580.0,684.32
+1038,2024-02-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-02-12,Empresa de embarque A,Not Specified,Ciruelas secas,Frutas secas,49.0,49.0,2401.0,230.49600000000004
+1039,2024-02-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-02-13,Empresa de embarque C,Not Specified,Salsa curry,Salsas,560.0,72.0,40320.0,3991.68
+1040,2024-02-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-02-03,Empresa de embarque C,Not Specified,Carne de cangrejo,Carne enlatada,257.6,13.0,3348.8,331.5312
+1041,2024-02-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-03-02,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644.0,32.0,20608.0,2081.4080000000004
+1042,2024-02-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-02-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,27.0,3647.7,346.53150000000005
+1043,2024-02-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-02-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,71.0,12673.5,1280.0235
+1044,2024-02-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-02-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,13.0,2320.5,220.4475
+1045,2024-02-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-02-27,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,308.0,98.0,30184.0,2867.4800000000005
+1046,2024-02-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-02-28,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,350.0,21.0,7350.0,749.7
+1047,2024-03-01,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-03-03,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,546.0,26.0,14196.0,1490.5800000000002
+1048,2024-02-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-02-08,Empresa de embarque C,Cheque,Peras secas,Frutas secas,420.0,96.0,40320.0,4152.96
+1049,2024-02-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-02-08,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,742.0,16.0,11872.0,1234.6880000000003
+1050,2024-02-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-02-06,Not Specified,Not Specified,Pasta penne,Pasta,532.0,96.0,51072.0,4851.84
+1051,2024-02-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-02-05,Not Specified,Not Specified,Té verde,Bebidas,41.86,75.0,3139.5,323.36850000000004
+1052,2024-03-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-03-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,55.0,15015.0,1516.515
+1053,2024-03-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-03-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,11.0,5359.199999999999,514.4831999999999
+1054,2024-03-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-03-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,53.0,10388.0,1007.636
+1055,2024-03-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-03-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,85.0,47600.0,4998.0
+1056,2024-03-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-03-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,97.0,12493.6,1274.3472000000002
+1057,2024-03-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-03-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,46.0,6440.0,650.44
+1058,2024-03-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-03-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,97.0,28993.300000000003,2754.3635
+1059,2024-03-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-03-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,97.0,13104.7,1336.6794000000002
+1060,2024-03-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-03-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,65.0,16743.999999999996,1724.6320000000003
+1061,2024-03-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-03-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,72.0,14112.0,1411.2000000000005
+1062,2024-03-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-03-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,16.0,2856.0,282.744
+1064,2024-03-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-03-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,77.0,87318.0,8993.754
+1065,2024-03-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-03-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,37.0,3626.0,344.47
+1067,2024-03-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-03-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,63.0,30693.599999999995,3038.6664
+1070,2024-03-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-03-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,48.0,6720.0,672.0
+1071,2024-03-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-03-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,71.0,39760.0,4135.04
+1075,2024-03-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-03-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,55.0,7700.0,770.0
+1077,2024-03-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-03-12,Empresa de embarque A,Not Specified,Ciruelas secas,Frutas secas,49.0,21.0,1029.0,102.9
+1078,2024-03-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-03-13,Empresa de embarque C,Not Specified,Salsa curry,Salsas,560.0,67.0,37520.0,3789.52
+1079,2024-03-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-03-03,Empresa de embarque C,Not Specified,Carne de cangrejo,Carne enlatada,257.6,75.0,19320.0,1932.0
+1080,2024-03-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-03-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644.0,17.0,10948.0,1127.644
+1081,2024-04-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-04-06,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,49.0,48.0,2352.0,228.144
+1082,2024-04-12,12,Supermercado La Entrada,La Entrada,Copán,Mayra Aguilar ,Occidente,2024-04-14,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,252.0,74.0,18648.0,1920.7440000000004
+1083,2024-04-12,12,Supermercado La Entrada,La Entrada,Copán,Mayra Aguilar ,Occidente,2024-04-14,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,644.0,96.0,61824.0,5996.928000000001
+1084,2024-04-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-04-10,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,128.79999999999998,12.0,1545.6,159.1968
+1085,2024-04-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-04-06,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,62.0,7985.5999999999985,822.5168
+1086,2024-04-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-05-01,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,35.0,6247.5,643.4925000000001
+1087,2024-04-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-04-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,95.0,12834.5,1283.4500000000005
+1088,2024-04-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-04-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560.0,17.0,9520.0,961.52
+1089,2024-04-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-04-30,Empresa de embarque C,Cheque,Café,Bebidas,644.0,96.0,61824.0,6491.52
+1090,2024-04-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-04-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,83.0,14815.5,1437.1035
+1091,2024-04-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-04-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,88.0,3683.68,364.68432
+1092,2024-04-07,7,Supermercado 7 calle,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-04-09,Not Specified,Not Specified,Café,Bebidas,644.0,59.0,37996.0,3989.58
+1093,2024-04-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-04-12,Empresa de embarque A,Not Specified,Jalea de fresa,Mermeladas y jaleas,350.0,27.0,9450.0,963.9
+1094,2024-04-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-04-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,37.0,11396.0,1196.5800000000002
+1095,2024-04-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-04-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,75.0,9659.999999999998,966.0
+1096,2024-04-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-04-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,71.0,3479.0,337.463
+1097,2024-04-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-04-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,88.0,3683.68,364.68432
+1098,2024-04-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-04-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,55.0,13860.0,1358.28
+1099,2024-05-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-05-31,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,14.0,2499.0,237.405
+1100,2024-05-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-05-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,43.0,5809.3,592.5486000000001
+1101,2024-05-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-05-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560.0,63.0,35280.0,3563.28
+1102,2024-05-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-05-30,Empresa de embarque C,Cheque,Café,Bebidas,644.0,36.0,23184.0,2318.4000000000005
+1103,2024-05-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-05-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,41.0,7318.5,761.1240000000001
+1104,2024-05-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-05-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,35.0,1465.1,143.5798
+1105,2024-05-07,7,Supermercado 7 calle,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-05-09,Not Specified,Not Specified,Café,Bebidas,644.0,31.0,19964.0,1916.544
+1106,2024-05-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-05-12,Empresa de embarque A,Not Specified,Jalea de fresa,Mermeladas y jaleas,350.0,52.0,18200.0,1729.0
+1107,2024-05-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-05-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,30.0,9240.0,942.48
+1108,2024-05-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-05-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,41.0,5280.799999999999,538.6416
+1109,2024-05-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-05-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,44.0,2156.0,213.444
+1110,2024-05-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-05-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,77.0,3223.22,322.32200000000006
+1111,2024-05-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-05-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,29.0,7308.0,738.1080000000001
+1112,2024-05-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-05-03,Not Specified,Not Specified,Café,Bebidas,644.0,77.0,49588.0,5157.152000000001
+1113,2024-05-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-05-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,73.0,3055.78,305.57800000000003
+1114,2024-05-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-05-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,74.0,9997.4,949.753
+1115,2024-05-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-05-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,25.0,6439.999999999999,650.44
+1116,2024-05-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-05-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,82.0,22386.0,2149.056
+1117,2024-05-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-05-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,37.0,18026.4,1856.7192
+1118,2024-05-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-05-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,84.0,16464.0,1580.544
+1119,2024-05-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-05-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,73.0,40880.0,3965.36
+1120,2024-05-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-05-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,51.0,6568.799999999999,624.036
+1121,2024-05-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-05-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,66.0,9240.0,960.96
+1122,2024-05-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-05-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,36.0,10760.4,1043.7588
+1123,2024-05-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-05-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,87.0,11753.7,1222.3848
+1124,2024-05-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-05-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,64.0,16486.399999999998,1615.6672
+1125,2024-05-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-05-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,21.0,4116.0,432.18000000000006
+1126,2024-05-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-05-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,19.0,3391.5,342.5415
+1128,2024-05-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-05-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,23.0,26082.0,2738.61
+1129,2024-05-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-05-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,72.0,7056.0,726.768
+1131,2024-05-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-05-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,22.0,10718.399999999998,1050.4031999999995
+1134,2024-05-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-05-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,82.0,11480.0,1193.92
+1135,2024-05-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-05-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,98.0,54880.0,5762.400000000001
+1138,2024-06-07,7,Supermercado 7 calle,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-06-09,Not Specified,Not Specified,Café,Bebidas,644.0,71.0,45724.0,4343.78
+1139,2024-06-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-06-12,Empresa de embarque A,Not Specified,Jalea de fresa,Mermeladas y jaleas,350.0,40.0,14000.0,1470.0
+1140,2024-06-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-06-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,80.0,24640.0,2414.72
+1141,2024-06-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-06-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,38.0,4894.4,464.968
+1142,2024-06-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-06-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,28.0,1372.0,144.06
+1143,2024-06-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-06-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,60.0,2511.6,246.13680000000005
+1144,2024-06-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-06-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,33.0,8316.0,814.9680000000001
+1145,2024-06-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-06-03,Not Specified,Not Specified,Café,Bebidas,644.0,22.0,14168.0,1416.8
+1146,2024-06-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-06-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,51.0,2134.86,209.21628000000004
+1147,2024-06-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-06-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,60.0,8106.0,802.494
+1148,2024-06-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-06-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,98.0,25244.8,2574.9696
+1149,2024-06-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-06-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,27.0,7371.0,714.9870000000001
+1150,2024-06-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-06-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,88.0,42873.59999999999,4244.486399999999
+1151,2024-06-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-06-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,65.0,12740.0,1337.7
+1152,2024-06-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-06-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,38.0,21280.0,2085.44
+1153,2024-06-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-06-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,80.0,10303.999999999998,989.184
+1154,2024-06-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-06-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,49.0,6860.0,658.56
+1155,2024-06-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-06-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,90.0,26901.000000000004,2609.3970000000004
+1156,2024-06-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-06-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,60.0,8106.0,834.9180000000001
+1157,2024-06-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-06-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,39.0,10046.399999999998,1004.64
+1158,2024-06-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-07-01,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,79.0,15484.0,1594.852
+1159,2024-06-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-06-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,44.0,7854.0,801.1080000000001
+1161,2024-06-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-06-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,98.0,111132.0,10779.804
+1162,2024-06-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-06-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,61.0,5978.0,591.822
+1164,2024-06-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-06-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,30.0,14615.999999999998,1534.68
+1167,2024-06-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-06-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,24.0,3360.0,352.80000000000007
+1168,2024-06-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-06-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,28.0,15680.0,1536.64
+1172,2024-06-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-06-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,74.0,10360.0,1004.92
+1174,2024-06-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-06-12,Empresa de embarque A,Not Specified,Ciruelas secas,Frutas secas,49.0,90.0,4410.0,423.36
+1175,2024-06-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-06-13,Empresa de embarque C,Not Specified,Salsa curry,Salsas,560.0,27.0,15120.0,1557.36
+1176,2024-06-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-06-03,Empresa de embarque C,Not Specified,Carne de cangrejo,Carne enlatada,257.6,71.0,18289.6,1920.408
+1177,2024-06-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-06-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644.0,74.0,47656.0,4765.6
+1178,2024-06-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-06-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,76.0,10267.6,1016.4924
+1179,2024-06-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-06-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,96.0,17136.0,1730.736
+1180,2024-06-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-06-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,92.0,16422.0,1625.7780000000002
+1181,2024-06-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-06-27,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,308.0,93.0,28644.0,2807.112
+1182,2024-06-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-06-28,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,350.0,18.0,6300.0,598.5
+1183,2024-06-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-07-01,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,546.0,98.0,53508.0,5564.832
+1184,2024-06-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-06-08,Empresa de embarque C,Cheque,Peras secas,Frutas secas,420.0,46.0,19320.0,1893.36
+1185,2024-06-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-06-08,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,742.0,14.0,10388.0,1038.8
+1186,2024-06-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-06-06,Not Specified,Not Specified,Pasta penne,Pasta,532.0,85.0,45220.0,4476.78
+1187,2024-06-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-06-05,Not Specified,Not Specified,Té verde,Bebidas,41.86,88.0,3683.68,357.31696
+1188,2024-07-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-07-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,81.0,3390.66,335.67534000000006
+1189,2024-07-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-07-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,33.0,4458.3,423.5385
+1190,2024-07-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-07-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,47.0,12107.2,1271.256
+1191,2024-07-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-07-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,61.0,16653.0,1731.9120000000005
+1192,2024-07-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-07-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,27.0,13154.399999999998,1341.7487999999998
+1193,2024-07-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-07-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,84.0,16464.0,1662.864
+1194,2024-07-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-07-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,91.0,50960.0,5045.04
+1195,2024-07-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-07-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,36.0,4636.799999999999,482.2272
+1196,2024-07-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-07-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,34.0,4760.0,480.7600000000001
+1197,2024-07-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-07-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,81.0,24210.9,2493.7227000000003
+1198,2024-07-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-07-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,25.0,3377.5,327.6175
+1199,2024-07-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-07-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,12.0,3091.2,309.12
+1200,2024-07-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-07-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,23.0,4508.0,432.768
+1201,2024-07-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-07-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,76.0,13566.0,1370.166
+1203,2024-07-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-07-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,55.0,62370.0,6237.0
+1204,2024-07-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-07-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,19.0,1862.0,180.614
+1206,2024-07-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-07-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,27.0,13154.399999999998,1249.668
+1209,2024-07-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-07-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,99.0,13860.0,1330.56
+1210,2024-07-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-07-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,10.0,5600.0,560.0
+1214,2024-07-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-07-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,80.0,11200.0,1086.4
+1216,2024-07-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-07-12,Empresa de embarque A,Not Specified,Ciruelas secas,Frutas secas,49.0,27.0,1323.0,127.008
+1217,2024-07-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-07-13,Empresa de embarque C,Not Specified,Salsa curry,Salsas,560.0,97.0,54320.0,5323.360000000001
+1218,2024-07-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-07-03,Empresa de embarque C,Not Specified,Carne de cangrejo,Carne enlatada,257.6,42.0,10819.2,1125.1968
+1219,2024-07-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-07-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644.0,24.0,15456.0,1483.7759999999998
+1220,2024-07-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-07-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,90.0,12159.0,1167.264
+1221,2024-07-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-07-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,28.0,4998.0,499.80000000000007
+1222,2024-08-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-08-30,Empresa de embarque C,Cheque,Café,Bebidas,644.0,28.0,18032.0,1875.3280000000004
+1223,2024-08-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-08-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,57.0,10174.5,976.752
+1224,2024-08-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-08-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,23.0,962.78,93.38966000000002
+1225,2024-08-07,7,Supermercado 7 calle,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-08-09,Not Specified,Not Specified,Café,Bebidas,644.0,86.0,55384.0,5593.784000000001
+1226,2024-08-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-08-12,Empresa de embarque A,Not Specified,Jalea de fresa,Mermeladas y jaleas,350.0,47.0,16450.0,1628.55
+1227,2024-08-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-08-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,97.0,29876.0,3107.1040000000003
+1228,2024-08-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-08-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,96.0,12364.8,1211.7504
+1229,2024-08-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-08-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,31.0,1519.0,151.90000000000003
+1230,2024-08-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-08-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,52.0,2176.72,224.20216000000005
+1231,2024-08-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-08-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,91.0,22932.0,2224.404
+1232,2024-08-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-08-03,Not Specified,Not Specified,Café,Bebidas,644.0,14.0,9016.0,892.5840000000001
+1233,2024-08-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-08-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,44.0,1841.84,186.02584
+1234,2024-08-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-08-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,97.0,13104.7,1336.6794000000002
+1235,2024-08-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-08-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,80.0,20608.0,2102.0160000000005
+1236,2024-08-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-08-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,66.0,18018.0,1855.854
+1237,2024-08-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-08-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,32.0,15590.399999999998,1559.04
+1238,2024-08-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-08-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,52.0,10192.0,1019.2
+1239,2024-08-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-08-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,78.0,43680.0,4455.360000000001
+1240,2024-08-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-08-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,54.0,6955.199999999999,688.5648
+1241,2024-08-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-08-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,55.0,7700.0,731.5
+1242,2024-08-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-08-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,60.0,17934.000000000004,1811.334
+1243,2024-08-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-08-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,19.0,2566.9,243.8555
+1244,2024-08-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-08-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,66.0,17001.6,1751.1648
+1245,2024-08-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-08-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,42.0,8232.0,831.432
+1246,2024-08-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-08-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,72.0,12852.0,1246.644
+1248,2024-08-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-08-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,32.0,36288.0,3519.936
+1249,2024-08-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-08-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,76.0,7448.0,752.248
+1250,2024-09-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-09-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,83.0,10690.399999999998,1047.6591999999998
+1251,2024-09-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-09-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,91.0,4459.0,436.982
+1252,2024-09-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-09-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,64.0,2679.04,273.26208
+1253,2024-09-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-09-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,58.0,14616.0,1446.9840000000002
+1254,2024-09-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-09-03,Not Specified,Not Specified,Café,Bebidas,644.0,97.0,62468.0,6496.6720000000005
+1255,2024-09-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-09-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,14.0,586.04,60.94816
+1256,2024-09-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-09-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,68.0,9186.8,900.3064000000002
+1257,2024-09-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-09-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,32.0,8243.199999999999,824.3199999999999
+1258,2024-09-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-09-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,48.0,13104.0,1323.504
+1259,2024-09-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-09-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,57.0,27770.4,2721.4992
+1260,2024-09-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-09-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,67.0,13132.0,1378.86
+1261,2024-09-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-09-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,48.0,26880.0,2634.24
+1262,2024-09-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-09-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,77.0,9917.6,1011.5952
+1263,2024-09-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-09-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,94.0,13160.0,1368.64
+1264,2024-09-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-09-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,54.0,16140.600000000002,1694.7630000000004
+1265,2024-09-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-09-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,43.0,5809.3,563.5021
+1266,2024-09-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-09-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,71.0,18289.6,1883.8288
+1267,2024-09-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-10-01,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,50.0,9800.0,940.8
+1268,2024-09-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-09-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,96.0,17136.0,1679.328
+1270,2024-09-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-09-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,54.0,61236.0,6123.6
+1271,2024-09-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-09-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,39.0,3822.0,382.2
+1273,2024-09-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-09-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,63.0,30693.599999999995,3222.828
+1276,2024-09-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-09-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,71.0,9940.0,1023.82
+1277,2024-09-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-09-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,88.0,49280.0,5125.120000000001
+1281,2024-09-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-09-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,59.0,8260.0,834.26
+1282,2024-10-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-10-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560.0,94.0,52640.0,5264.0
+1283,2024-10-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-10-30,Empresa de embarque C,Cheque,Café,Bebidas,644.0,86.0,55384.0,5316.8640000000005
+1284,2024-10-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-10-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,61.0,10888.5,1099.7385
+1285,2024-10-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-10-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,32.0,1339.52,136.63104
+1286,2024-10-07,7,Supermercado 7 calle,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-10-09,Not Specified,Not Specified,Café,Bebidas,644.0,62.0,39928.0,4072.656
+1287,2024-10-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-10-12,Empresa de embarque A,Not Specified,Jalea de fresa,Mermeladas y jaleas,350.0,60.0,21000.0,2163.0
+1288,2024-10-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-10-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,51.0,15708.0,1539.384
+1289,2024-10-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-10-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,49.0,6311.199999999999,624.8088
+1290,2024-10-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-10-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,20.0,980.0,97.02
+1291,2024-10-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-10-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,49.0,2051.14,205.11400000000003
+1292,2024-10-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-10-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,22.0,5544.0,532.2239999999999
+1293,2024-10-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-10-03,Not Specified,Not Specified,Café,Bebidas,644.0,73.0,47012.0,4748.212
+1294,2024-10-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-10-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,85.0,3558.1,345.13570000000004
+1295,2024-10-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-10-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,44.0,5944.4,618.2176000000001
+1296,2024-10-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-10-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,24.0,6182.4,599.6927999999999
+1297,2024-10-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-10-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,64.0,17472.0,1677.312
+1298,2024-10-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-10-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,70.0,34103.99999999999,3444.5040000000004
+1299,2024-10-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-10-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,98.0,19208.0,1940.0080000000005
+1300,2024-10-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-10-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,48.0,26880.0,2634.24
+1301,2024-10-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-10-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,100.0,12879.999999999998,1275.12
+1302,2024-10-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-10-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,90.0,12600.0,1222.2
+1303,2024-10-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-10-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,49.0,14646.100000000002,1435.3178
+1304,2024-10-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-10-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,71.0,9592.1,920.8416
+1305,2024-10-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-10-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,10.0,2575.9999999999995,267.90400000000005
+1306,2024-10-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-10-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,78.0,15288.0,1574.664
+1307,2024-10-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-10-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,44.0,7854.0,753.984
+1309,2024-10-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-10-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,82.0,92988.0,9763.740000000002
+1310,2024-10-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-10-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,29.0,2842.0,284.2
+1312,2024-10-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-10-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,93.0,45309.59999999999,4395.031199999999
+1315,2024-10-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-10-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,11.0,1540.0,160.16000000000005
+1316,2024-10-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-10-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,91.0,50960.0,5096.0
+1320,2024-10-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-10-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,12.0,1680.0,173.04
+1322,2024-10-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-10-12,Empresa de embarque A,Not Specified,Ciruelas secas,Frutas secas,49.0,78.0,3822.0,382.2
+1323,2024-10-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-10-13,Empresa de embarque C,Not Specified,Salsa curry,Salsas,560.0,60.0,33600.0,3192.0
+1324,2024-10-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-10-03,Empresa de embarque C,Not Specified,Carne de cangrejo,Carne enlatada,257.6,23.0,5924.799999999999,610.2544
+1325,2024-10-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-10-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644.0,34.0,21896.0,2211.496
+1326,2024-10-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-10-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,89.0,12023.9,1214.4139
+1327,2024-10-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-10-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,82.0,14637.0,1449.063
+1328,2024-10-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-10-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,43.0,7675.5,736.848
+1329,2024-11-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-11-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,96.0,29568.0,3104.6400000000003
+1330,2024-11-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-11-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,34.0,4379.2,437.92
+1331,2024-11-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-11-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,42.0,2058.0,211.974
+1332,2024-11-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-11-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,100.0,4186.0,426.972
+1333,2024-11-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-11-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,42.0,10584.0,1068.9840000000002
+1334,2024-11-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-11-03,Not Specified,Not Specified,Café,Bebidas,644.0,16.0,10304.0,989.184
+1335,2024-11-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-11-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,22.0,920.92,89.32924
+1336,2024-11-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-11-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,46.0,6214.599999999999,640.1038000000001
+1337,2024-11-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-11-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,100.0,25760.0,2576.0
+1338,2024-11-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-11-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,87.0,23751.0,2446.353
+1339,2024-11-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-11-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,58.0,28257.599999999995,2882.2752
+1340,2024-11-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-11-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,85.0,16660.0,1682.66
+1341,2024-11-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-11-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,28.0,15680.0,1552.32
+1342,2024-11-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-11-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,19.0,2447.2,239.8256
+1343,2024-11-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-11-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,99.0,13860.0,1441.44
+1344,2024-11-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-11-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,69.0,20624.1,2144.9064000000008
+1345,2024-11-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-11-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,37.0,4998.7,474.8765
+1346,2024-11-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-11-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,64.0,16486.399999999998,1665.1264
+1347,2024-11-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-12-01,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,38.0,7448.0,774.5920000000001
+1348,2024-11-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-11-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,15.0,2677.5,259.7175
+1350,2024-11-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-11-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,52.0,58968.0,5778.8640000000005
+1351,2024-11-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-11-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,37.0,3626.0,355.348
+1353,2024-11-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-11-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,24.0,11692.8,1122.5087999999998
+1356,2024-11-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-11-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,36.0,5040.0,519.12
+1357,2024-11-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-11-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,24.0,13440.0,1344.0
+1361,2024-11-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-11-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,20.0,2800.0,280.0
+1363,2024-11-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-11-12,Empresa de embarque A,Not Specified,Ciruelas secas,Frutas secas,49.0,11.0,539.0,52.283
+1364,2024-11-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-11-13,Empresa de embarque C,Not Specified,Salsa curry,Salsas,560.0,78.0,43680.0,4193.28
+1365,2024-11-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-11-03,Empresa de embarque C,Not Specified,Carne de cangrejo,Carne enlatada,257.6,76.0,19577.6,2016.4928
+1366,2024-11-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-11-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644.0,57.0,36708.0,3817.632
+1367,2024-11-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-11-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,14.0,1891.4,181.5744
+1368,2024-12-27,27,Supermercado La Económica,San Pedro Sula,Cortés,Mayra Aguilar ,Norte,2024-12-29,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,14.0,2744.0,277.14400000000006
+1369,2024-12-27,27,Supermercado La Económica,San Pedro Sula,Cortés,Mayra Aguilar ,Norte,2024-12-29,Empresa de embarque B,Cheque,Ciruelas secas,Frutas secas,49.0,70.0,3430.0,353.29
+1370,2024-12-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-12-06,Empresa de embarque A,Tarjeta de crédito,Peras secas,Frutas secas,420.0,100.0,42000.0,4074.0
+1371,2024-12-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-12-06,Empresa de embarque A,Tarjeta de crédito,Manzanas secas,Frutas secas,742.0,27.0,20034.0,2003.4
+1372,2024-12-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-12-06,Empresa de embarque A,Tarjeta de crédito,Ciruelas secas,Frutas secas,49.0,70.0,3430.0,336.14
+1373,2024-12-12,12,Supermercado La Entrada,La Entrada,Copán,Mayra Aguilar ,Occidente,2024-12-14,Empresa de embarque B,Tarjeta de crédito,Té chai,Bebidas,252.0,57.0,14364.0,1436.4
+1374,2024-12-12,12,Supermercado La Entrada,La Entrada,Copán,Mayra Aguilar ,Occidente,2024-12-14,Empresa de embarque B,Tarjeta de crédito,Café,Bebidas,644.0,83.0,53452.0,5238.296
+1375,2024-12-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-12-10,Empresa de embarque C,Tarjeta de crédito,Galletas de chocolate,Productos horneados,128.79999999999998,76.0,9788.8,939.7248
+1376,2024-12-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-12-06,Empresa de embarque C,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,80.0,10303.999999999998,1020.096
+1377,2024-12-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-12-31,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,47.0,8389.5,830.5605
+1378,2024-12-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-12-05,Empresa de embarque B,Efectivo,Almejas,Sopas,135.1,96.0,12969.6,1322.8992000000003
+1379,2024-12-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-12-08,Empresa de embarque B,Tarjeta de crédito,Salsa curry,Salsas,560.0,32.0,17920.0,1881.6
+1380,2024-12-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-12-30,Empresa de embarque C,Cheque,Café,Bebidas,644.0,16.0,10304.0,1030.4
+1381,2024-12-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-12-10,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,41.0,7318.5,717.213
+1382,2024-12-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-12-12,Empresa de embarque B,Tarjeta de crédito,Té verde,Bebidas,41.86,41.0,1716.26,180.20730000000003
+1383,2024-12-07,7,Supermercado 7 calle,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-12-09,Not Specified,Not Specified,Café,Bebidas,644.0,41.0,26404.0,2719.6120000000005
+1384,2024-12-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-12-12,Empresa de embarque A,Not Specified,Jalea de fresa,Mermeladas y jaleas,350.0,94.0,32900.0,3290.0
+1385,2024-12-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-12-12,Empresa de embarque A,Not Specified,Condimento cajún,Condimentos,308.0,20.0,6160.0,646.8000000000001
+1386,2024-12-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-12-12,Empresa de embarque A,Not Specified,Galletas de chocolate,Productos horneados,128.79999999999998,13.0,1674.4,174.13760000000002
+1387,2024-12-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-12-13,Empresa de embarque C,Not Specified,Ciruelas secas,Frutas secas,49.0,74.0,3626.0,377.104
+1388,2024-12-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-12-13,Empresa de embarque C,Not Specified,Té verde,Bebidas,41.86,53.0,2218.58,224.07658000000004
+1389,2024-12-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-12-03,Not Specified,Not Specified,Té chai,Bebidas,252.0,99.0,24948.0,2444.9040000000005
+1390,2024-12-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-12-03,Not Specified,Not Specified,Café,Bebidas,644.0,89.0,57316.0,5445.02
+1391,2024-12-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-12-03,Not Specified,Not Specified,Té verde,Bebidas,41.86,64.0,2679.04,273.26208
+1392,2024-12-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-12-30,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,98.0,13239.8,1350.4596
+1393,2024-12-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-12-30,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,86.0,22153.6,2171.0528
+1394,2024-12-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-12-11,Empresa de embarque A,Cheque,Ravioli,Pasta,273.0,20.0,5460.0,573.3000000000001
+1395,2024-12-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-12-11,Empresa de embarque A,Cheque,Mozzarella,Productos lácteos,487.19999999999993,69.0,33616.8,3361.6800000000003
+1396,2024-12-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-12-08,Empresa de embarque B,Tarjeta de crédito,Cerveza,Bebidas,196.0,68.0,13328.0,1279.4879999999998
+1397,2024-12-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-12-10,Empresa de embarque B,Cheque,Salsa curry,Salsas,560.0,52.0,29120.0,2853.76
+1398,2024-12-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-12-10,Empresa de embarque B,Cheque,Galletas de chocolate,Productos horneados,128.79999999999998,40.0,5151.999999999999,540.9600000000002
+1399,2024-12-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-12-27,Empresa de embarque A,Efectivo,Bolillos,Productos horneados,140.0,100.0,14000.0,1372.0
+1400,2024-12-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-12-28,Empresa de embarque C,Tarjeta de crédito,Aceite de oliva,Aceite,298.90000000000003,88.0,26303.200000000004,2577.7136000000005
+1401,2024-12-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-12-28,Empresa de embarque C,Tarjeta de crédito,Almejas,Sopas,135.1,46.0,6214.599999999999,596.6016000000001
+1402,2024-12-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-12-28,Empresa de embarque C,Tarjeta de crédito,Carne de cangrejo,Carne enlatada,257.6,93.0,23956.8,2347.7664
+1403,2024-12-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-12-31,Empresa de embarque B,Cheque,Cerveza,Bebidas,196.0,96.0,18816.0,1975.68
+1404,2024-12-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-12-08,Empresa de embarque C,Cheque,Chocolate,Dulces,178.5,12.0,2142.0,224.91000000000005
+1406,2024-12-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-12-06,Empresa de embarque A,Tarjeta de crédito,Mermelada de zarzamora,Mermeladas y jaleas,1134.0,38.0,43092.0,4093.74
+1407,2024-12-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-12-06,Empresa de embarque A,Tarjeta de crédito,Arroz de grano largo,Granos,98.0,42.0,4116.0,407.484
+1409,2024-12-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-12-10,Empresa de embarque C,Tarjeta de crédito,Mozzarella,Productos lácteos,487.19999999999993,100.0,48719.99999999999,4823.28
+1412,2024-12-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-12-05,Empresa de embarque B,Efectivo,Jarabe,Condimentos,140.0,89.0,12460.0,1221.08
+1413,2024-12-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-12-05,Empresa de embarque B,Efectivo,Salsa curry,Salsas,560.0,12.0,6720.0,651.84
+1417,2024-12-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-12-12,Empresa de embarque B,Tarjeta de crédito,Almendras,Frutas secas,140.0,97.0,13580.0,1412.3200000000002
+1419,2024-12-10,10,Supermercado Coxen Hole,Roatán,Islas de la Bahia,Laura Gutiérrez ,Litoral Atlántico,2024-12-12,Empresa de embarque A,Not Specified,Ciruelas secas,Frutas secas,49.0,53.0,2597.0,246.715
+1420,2024-12-11,11,Supermercado El Junco,Santa Barbara,Santa Barbara,Ana del Valle,Occidente,2024-12-13,Empresa de embarque C,Not Specified,Salsa curry,Salsas,560.0,61.0,34160.0,3484.32
+1421,2024-12-01,1,Supermercado Junior,San Pedro Sula,Cortés,José Castro,Norte,2024-12-03,Empresa de embarque C,Not Specified,Carne de cangrejo,Carne enlatada,257.6,45.0,11591.999999999998,1136.0159999999998
+1422,2024-12-28,28,Supermercado de Occidente,Santa Rosa de Copán,Copán,Ana del Valle,Occidente,2024-12-30,Empresa de embarque C,Tarjeta de crédito,Café,Bebidas,644.0,43.0,27692.0,2769.2000000000003
+1423,2024-12-09,9,Supermercado Los Arcos,Tegucigalpa,Francisco Morazán,Robert Carrillo,Centro,2024-12-11,Empresa de embarque A,Cheque,Almejas,Sopas,135.1,18.0,2431.8,231.021
+1424,2024-12-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-12-08,Empresa de embarque B,Tarjeta de crédito,Chocolate,Dulces,178.5,41.0,7318.5,709.8945000000001
+1425,2024-12-08,8,Supermercado Colonial,San Pedro Sula,Cortés,Nancy Gil de la Peña,Norte,2024-12-10,Empresa de embarque B,Cheque,Chocolate,Dulces,178.5,19.0,3391.5,335.7585
+1426,2024-12-25,25,Supermercado Las Colinas,Tegucigalpa,Francisco Morazán,Laura Gutiérrez ,Centro,2024-12-27,Empresa de embarque A,Efectivo,Condimento cajún,Condimentos,308.0,65.0,20020.0,1941.94
+1427,2024-12-26,26,Supermercado EL Capitalino,Tegucigalpa,Francisco Morazán,Ana del Valle,Centro,2024-12-28,Empresa de embarque C,Tarjeta de crédito,Jalea de fresa,Mermeladas y jaleas,350.0,13.0,4550.0,450.44999999999993
+1428,2024-12-29,29,Supermercado La Roca,Siguatepeque,Comayagua,José de Jesús Morales,Centro,2024-12-31,Empresa de embarque B,Cheque,Cóctel de frutas,Frutas y vegetales,546.0,54.0,29484.0,3007.3680000000004
+1429,2024-12-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-12-08,Empresa de embarque C,Cheque,Peras secas,Frutas secas,420.0,33.0,13860.0,1330.56
+1430,2024-12-06,6,Supermercado La Estrella,Tela,Atlantida,Luis Miguel Valdés Garza,Norte,2024-12-08,Empresa de embarque C,Cheque,Manzanas secas,Frutas secas,742.0,34.0,25228.0,2598.4840000000004
+1431,2024-12-04,4,Supermercado Sandoval,Santa Rosa de Copán,Copán,Andrés González Rico,Occidente,2024-12-06,Not Specified,Not Specified,Pasta penne,Pasta,532.0,59.0,31388.0,3170.188
+1432,2024-12-03,3,Delikatessen,Tegucigalpa,Francisco Morazán,Mayra Aguilar ,Centro,2024-12-05,Not Specified,Not Specified,Té verde,Bebidas,41.86,24.0,1004.64,99.45936
